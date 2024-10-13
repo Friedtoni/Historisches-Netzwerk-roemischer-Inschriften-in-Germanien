@@ -25,13 +25,14 @@ Die einzelnen Netzwerkabschnitte sind als .png mit ihrer jeweiligen Zeitspanne u
 Die von Gephi erstellten dynamischen Times Series sind in den .png-Dateien nb-edges-ts und nb-nodes-ts sowie als .html report_edges sowie report_nodes zu finden.
 
 
+
 Zur Erstellung des Netzwerks verwendete Literatur: 
 
-Kienast, D., Eck, W. and Heil, M. (2017) Römische Kaisertabelle: Grundzüge einer römischen Kaiserchronologie. 6th edn. Darmstadt: Wissenschaftliche Buchgesellschaft.
+Kienast, D., Eck, W. and Heil, M. (2017): Römische Kaisertabelle: Grundzüge einer römischen Kaiserchronologie. 6th edn. Darmstadt: Wissenschaftliche Buchgesellschaft.
 
 
 Tools:
 
 Clauss, M. und Slaby, W. (o.J.): Epigraphische Datenbank Clauss/Slaby. URL: https://db.edcs.eu/ [Zugriff: 10. Oktober 2024]
 
-Epigraphische Datenbank Heidelberg (o.J.) Epigraphische Datenbank Heidelberg. Zugriff: https://edh.ub.uni-heidelberg.de/ [Zugriff: 10. Oktober 2024]
+Epigraphische Datenbank Heidelberg (o.J.): Epigraphische Datenbank Heidelberg. Zugriff: https://edh.ub.uni-heidelberg.de/ [Zugriff: 10. Oktober 2024]
