@@ -33,13 +33,3 @@ Tools:
 Clauss, M. und Slaby, W. (o.J.): Epigraphische Datenbank Clauss/Slaby. URL: https://db.edcs.eu/ [Zugriff: 10. Oktober 2024]
 
 Epigraphische Datenbank Heidelberg (o.J.) Epigraphische Datenbank Heidelberg. Zugriff: https://edh.ub.uni-heidelberg.de/ [Zugriff: 10. Oktober 2024]
-
-
-
-
-
-
-Für die Provinz Germania superior wurden insgesamt 219 Inschrifteneinträge zu Augusti/Augustae auf Stein gefunden, für die Provinz Germania inferior waren es 96 Einträge. Diese wurden manuell in eine Excel-Tabelle übertragen und gesammelt, bevor Einträge mit ungenauen Datierungen oder Textinhalten sowie einem fehlendem Fundort aufgrund der Fragestellung der Netzwerkanalyse aussortiert wurden. 
-Des Weiteren wurden die zugehörigen Kaiser, falls nicht in der EDCS im Inschriftentext erkennbar, auf der Seite der Epigraphischen Datenbank Heidelberg oder der Römischen Kaisertabelle von Dietmar Kienast et al. recherchiert.
-
-Die Liste "Kanten_Inschriftennetzwerk.csv" enthält die bereinigte Liste an Inschriftenfunden mit ihrem jeweilgen Fundort, der jeweilgen Datierung und den erwähnten oder zuzuordneten Kaisern mit ihrer Dynastie oder Kaiserepoche (z.B: Julisch-claudisch, Flavier, Adoptivkaiser, Erbkaiser, Severer, Soldatenkaiser, Konstantiner und Tetrachisch). Für den Import im Visualisierungprogramm Gephi musste die Datierung in Intervalle formatiert werden.
