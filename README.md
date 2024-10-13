@@ -30,11 +30,10 @@ Die von Gephi erstellten dynamischen Times Series sind in den .png-Dateien nb-ed
 
 _Zur Erstellung des Netzwerks verwendete Literatur:_
 
-Kienast, D., Eck, W. and Heil, M. (2017): Römische Kaisertabelle: Grundzüge einer römischen Kaiserchronologie. 6th edn. Darmstadt: Wissenschaftliche Buchgesellschaft.
-
+_Kienast, D., Eck, W. and Heil, M. (2017): Römische Kaisertabelle: Grundzüge einer römischen Kaiserchronologie. 6th edn. Darmstadt: Wissenschaftliche Buchgesellschaft._
 
 _Tools_:
 
-Clauss, M. und Slaby, W. (o.J.): Epigraphische Datenbank Clauss/Slaby. URL: https://db.edcs.eu/ [Zugriff: 10. Oktober 2024]
+_Clauss, M. und Slaby, W. (o.J.): Epigraphische Datenbank Clauss/Slaby. URL: https://db.edcs.eu/ [Zugriff: 10. Oktober 2024]_
 
-Epigraphische Datenbank Heidelberg (o.J.): Epigraphische Datenbank Heidelberg. Zugriff: https://edh.ub.uni-heidelberg.de/ [Zugriff: 10. Oktober 2024]
+_Epigraphische Datenbank Heidelberg (o.J.): Epigraphische Datenbank Heidelberg. Zugriff: https://edh.ub.uni-heidelberg.de/ [Zugriff: 10. Oktober 2024]_
