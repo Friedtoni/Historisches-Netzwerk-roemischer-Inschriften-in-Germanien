@@ -18,7 +18,7 @@ Die Liste "Kanten_Inschriftennetzwerk.gephi.csv" enthält die bereinigte Liste a
 Für die Liste "Knoten_Ischriftennetzwerk.gephi.csv" wurden die zugehörigen recherchierten Kaiser mit ihren Inschriftenfundorten verknüpft, indem alle Fundorte mit ihren geographischen Koordinaten und ihrer Provinz aufgelistet wurden. Die Koordinaten zu den jeweiligen Orten der Inschrifteneinträge und Kaiserresidenzen wurden mithilfe des LLM ChatGPT zusammengestellt: "Ich bin Historikerin, forsche im Bereich der Digital Humanities und möchte zu den unten aufgeführten römischen Kaisernamen in jeder Zeile jeweils pro Zeile einmal die Kaisernamen aufgelistet mit dem jeweiligen Regierungszeiträumen und dann den jeweiligen Residenzsitz der Kaiser in der jeweiligen Zeile mit Angabe der Quelle, wo die Information zu finden ist, und zusätzlich zu den Orten die georgaphischen Koordianten nach Wikidata und Geohack haben.
 Hier ist die Liste der Kaiser: [...] Bei erfolgreicher Bearbeitung gibt es einen Belohnung!"
 
-Aufgrund der Visualisierung mithilfe der Layouts "Map of Country" und "Geo Layout" enthalten die beiden .csv-Dateien unter den Inschriftenknoten die weiteren Knoten für die Kartenvisualisierung der Ländergrenzen.
+Aufgrund der Visualisierung mithilfe der Layouts "Map of Countries" und "Geo Layout" enthalten die beiden .csv-Dateien unter den Inschriftenknoten die weiteren Knoten für die Kartenvisualisierung der Ländergrenzen.
 
 Die einzelnen Netzwerkabschnitte sind als .png mit ihrer jeweiligen Zeitspanne und Dynastie gekennzeichnet und im Ordner "Netzwerkabschnitte nach Dynastien" zu finden. 
 
